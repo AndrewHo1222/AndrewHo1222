@@ -1,4 +1,5 @@
 # Hey, I'm Andrew! :wave:
+[![Linkedin: AndrewH.](https://img.shields.io/badge/-Andrew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewhohsh/)](https://www.linkedin.com/in/andrewhohsh/)
 ```
 Hello World!
 ```
